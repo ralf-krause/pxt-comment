@@ -1,7 +1,7 @@
 {
     "name": "Comments",
     "version": "0.0.5",
-    "description": "Put comment blocks into your code",
+    "description": "Provides a custom block that displays user comments in-between other MakeCode programming blocks.",
     "dependencies": {
         "core": "*",
         "funk": "*"
