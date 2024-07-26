@@ -1,7 +1,7 @@
 {
-    "name": "pxt-comment",
-    "version": "0.0.4",
-    "description": "",
+    "name": "Comments",
+    "version": "0.0.5",
+    "description": "Put comment blocks into your code",
     "dependencies": {
         "core": "*",
         "funk": "*"
