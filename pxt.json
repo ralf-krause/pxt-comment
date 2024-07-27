@@ -1,5 +1,5 @@
 {
-    "name": "comment",
+    "name": "pxt-comment",
     "version": "0.0.5",
     "description": "Block displays user comments between other MakeCode programming blocks.",
     "dependencies": {
@@ -10,8 +10,8 @@
     "files": [
         "README.md",
         "main.ts",
-        "_locales/de/comment-strings.json",
-        "_locales/de/comment-jsdoc-strings.json"
+        "_locales/de/pxt-comment-strings.json",
+        "_locales/de/pxt-comment-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
