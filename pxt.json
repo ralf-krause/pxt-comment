@@ -1,6 +1,6 @@
 {
     "name": "pxt-comment",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "description": "Block displays user comments between other MakeCode programming blocks.",
     "dependencies": {
         "core": "*",
@@ -19,9 +19,11 @@
     "public": false,
     "targetVersions": {
         "target": "6.0.41",
+        "targetId!: "microbit",
         "targetId": "calliopemini"
     },
     "supportedTargets": [
+        "microbit",
         "calliopemini"
     ],
     "preferredEditor": "tsprj"
