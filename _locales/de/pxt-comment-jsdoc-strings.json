@@ -1,0 +1,5 @@
+{
+  "comment": "Kommentar-Block für MakeCode\nby David Sparks",
+  "comment.writeComment": "Schreibe einen Kommentar",
+  "comment.writeComment|param|theComment": "eg:'schreibe hier deinen kommentar'"
+}
