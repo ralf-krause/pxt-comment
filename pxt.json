@@ -1,16 +1,17 @@
 {
-    "name": "Comments",
+    "name": "comment",
     "version": "0.0.5",
-    "description": "Provides a custom block that displays user comments in-between other MakeCode programming blocks.",
+    "description": "Block displays user comments between other MakeCode programming blocks.",
     "dependencies": {
         "core": "*",
-        "funk": "*"
+        "radio": "*",
+        "v1": "*"
     },
     "files": [
         "README.md",
         "main.ts",
-        "_locales/de/pxt-comment-strings.json",
-        "_locales/de/pxt-comment-jsdocs-strings.json"
+        "_locales/de/comment-strings.json",
+        "_locales/de/comment-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
