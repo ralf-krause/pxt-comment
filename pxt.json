@@ -3,9 +3,7 @@
     "version": "0.0.6",
     "description": "Block displays user comments between other MakeCode programming blocks.",
     "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "v1": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
@@ -19,7 +17,7 @@
     "public": false,
     "targetVersions": {
         "target": "6.0.41",
-        "targetId!: "microbit",
+        "targetId": "microbit",
         "targetId": "calliopemini"
     },
     "supportedTargets": [
