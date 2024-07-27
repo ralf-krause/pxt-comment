@@ -1,5 +1,5 @@
 {
-    "comment.comment|block": "Kommentar",
+    "comment.writeComment|block": "Kommentar",
     "comment.theComment|block": "schreibe hier deinen Kommentar",
     "{id:category}Comment": "Kommentar"
 }

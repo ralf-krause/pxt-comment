@@ -10,7 +10,7 @@ namespace comment {
      * @param theComment eg:'write your comment here'
      */
     //% block=comment|%theComment
-    export function comment(theComment: string): void {
+    export function writeComment(theComment: string): void {
         // do really nothing
     }
 }
